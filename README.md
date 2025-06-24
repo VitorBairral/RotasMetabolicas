@@ -1,5 +1,6 @@
 # Grafos Metabólicos
-Repositório para o projeto final de semestre de Práticas de Ciências de Dados
+
+Repositório para o projeto final de semestre de Práticas de Ciências de Dados.
 
 Integrantes: Laura Medeiros, Lívia Aragão, Victor Emanuel e Vitor Bairral.
 Ilum Escola de Ciência - Centro Nacional de Pesquisa em Energia e Materiais
@@ -12,6 +13,16 @@ O projeto Grafos Metabólicos busca unir os conhecimentos construídos nas aulas
 As rotas metabólicas estudadas - glicólise, fermentação, ciclo do ácido cítrico e betaoxidação - são sequências de reações que envolve a conversão de substratos (metabólitos) em energia (catabolismo) ou em móleculas complexas (anabolismo). Os grafos, por sua vez, são estruturas matemáticas utilizadas para representar a conexão de elementos. Nos grafos, cada elemento é um vértice e a conexão entre eles é indicado por uma aresta. Desse modo, podemos utilizar os grafos como uma ferramenta para construir um mapa metabólico, onde os metabólitos como a glicose, piruvato e ATP são interpretados como vértices e as conexões são as reações bioquímicas envolvidas no processo.
 
 O objetivo do nosso código é fornecer uma determinada via metabólica que percorre o intervalo entre um metabólito inicial e final que é informado pelo usuário. Desse modo, o algorítmo pesquisa pelas rotas até encontrar a que se adeque a solicitação e a retorna ao usuário. O intuíto é otimizar a pesquisa por vias metabólicas específicas que são desejadas pelo usuário. 
+
+## Sumário
+
+
+- [Bibliotecas][#bibliotecas)
+- [Funcionamento](#funcionamento)
+
+## Bibliotecas
+
+Para esse projeto foi utilizado a biblioteca networkz para a visualização dos grafos. Disponível em: 
 
 ## Funcionamento
 
