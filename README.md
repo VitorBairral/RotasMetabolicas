@@ -20,6 +20,7 @@ Grafos metabólicos é distribuido sobre a licença GNU. Veja mais informações
 ## Orientações
 ### Como utilizar:
 O arquivo principal do projeto é o arquivo Grafos Metabólicos.ipynb presente na pasta principal do projeto. Abra-o com um editor de código jupyter e execute as células na ordem em que aparecem. 
+Os arquivos criados durante o desenvolvimento do projeto estão disponíveis nas pastas Processos, para a representação das rotas metabólicas em grafos separados e ALgoritmos, para os algoritmos utilizados.
 
 ### Bibliotecas
 
