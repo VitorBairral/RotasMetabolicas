@@ -18,6 +18,8 @@ O objetivo do nosso código é fornecer uma determinada via metabólica que perc
 Grafos metabólicos é distribuido sobre a licença GNU. Veja mais informações em: https://github.com/all-licenses/GNU-General-Public-License-v3.0/tree/main
 
 ## Orientações
+### Como utilizar:
+O arquivo principal do projeto é o arquivo Grafos Metabólicos.ipynb presente na pasta principal do projeto. Abra-o com um editor de código jupyter e execute as células na ordem em que aparecem. 
 
 ### Bibliotecas
 
