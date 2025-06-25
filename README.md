@@ -2,10 +2,9 @@
 
 Repositório para o projeto final de semestre de Práticas de Ciências de Dados.
 
-Integrantes: Laura Medeiros, Lívia Aragão, Victor Emanuel e Vitor Bairral.
-Ilum Escola de Ciência - Centro Nacional de Pesquisa em Energia e Materiais
-Professores Responsáveis: Daniel Roberto Cassar, James Moraes de Almeida e Leandro Nascimento Lemos.
-
+Integrantes: Laura Medeiros, Lívia Aragão, Victor Emanuel e Vitor Bairral |
+Ilum Escola de Ciência - Centro Nacional de Pesquisa em Energia e Materiais |
+Professores Responsáveis: Daniel Roberto Cassar, James Moraes de Almeida e Leandro Nascimento Lemos
 
 
 ## Resumo
@@ -14,37 +13,33 @@ As rotas metabólicas estudadas - glicólise, fermentação, ciclo do ácido cí
 
 O objetivo do nosso código é fornecer uma determinada via metabólica que percorre o intervalo entre um metabólito inicial e final que é informado pelo usuário. Desse modo, o algorítmo pesquisa pelas rotas até encontrar a que se adeque a solicitação e a retorna ao usuário. O intuíto é otimizar a pesquisa por vias metabólicas específicas que são desejadas pelo usuário. 
 
-## Sumário
+## Licença
 
+Grafos metabólicos é distribuido sobre a licença GNU. Veja mais informações em: https://github.com/all-licenses/GNU-General-Public-License-v3.0/tree/main
 
-- [Bibliotecas][#bibliotecas)
-- [Funcionamento](#funcionamento)
+## Orientações
 
-## Bibliotecas
+### Bibliotecas
 
-Para esse projeto foi utilizado a biblioteca networkz para a visualização dos grafos. Disponível em: 
+Para esse projeto foi utilizado somente a biblioteca networkx para a visualização dos grafos. 
 
-## Funcionamento
+### Funcionamento
 
-### Escolha do Ponto Inicial e Final:
-O usuário escolhe qual deve ser os metabólitos inicial e final do intervalo que ele deseja analisar. Por exemplo, se ele quiser a via que vai desde a glicose até o Acetil-CoA, ele informa isso ao programa:
+#### Escolha do Ponto Inicial e Final
 
-(imagem do input)
+O usuário escolhe qual deve ser os metabólitos iniciais e finais do intervalo que ele deseja analisar. Por exemplo, se ele quiser a via que vai desde a glicose até o Acetil-CoA, ele informa isso ao programa.
 
-### Busca em profundidade:
+#### Busca em profundidade:
+
 O algorítmo construído realizará uma busca em profundidade iniciada no vértice que representa o metabólito inicial e finalizada no vértice relacionado ao metabólito final.
 
-(imagem do input)
+#### Definição do Novo Grafo:
 
-### Definição do Novo Grafo:
 Enquanto o algorítmo construído realiza a busca em profundidade, os resultados são adicionados a um novo grafo que será armazenado.
 
-(imagem do input)
+#### Impressão:
 
-### Impressão:
 O novo grafo do intervalo escolhido pelo usuário será impresso.
-
-(imagem do input)
 
 ## Contribuições Individuais
 ### Laura Medeiros:
@@ -53,6 +48,7 @@ Design do grafo das vias metabólicas
 Edição do README
 
 ### Lívia Aragão:
+
 
 ### Vitor Bairral:
 Construção do segmento do grafo correspondente ao Ciclo de Krebs
