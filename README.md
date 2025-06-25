@@ -46,24 +46,24 @@ O novo grafo do intervalo escolhido pelo usuário será impresso.
 
 ## Contribuições Individuais
 ### Laura Medeiros:
-Construção do segmento do grafo correspondente à Beta Oxidação
-Design das visualizações grafo das vias metabólicas
-Edição do README
+Construção do segmento do grafo correspondente à Beta Oxidação,
+Design das visualizações grafo das vias metabólicas,
+Edição do README.
 
 ### Lívia Aragão:
-Construção do segmento do grafo correspondente à Glicólise
-Auxílio na construção do algorítmo de pesquisa
-Mardowns dos Notebooks
-Edição do README
+Construção do segmento do grafo correspondente à Glicólise,
+Auxílio na construção do algorítmo de pesquisa,
+Mardowns dos Notebooks,
+Edição do README.
 
 ### Vitor Bairral:
-Construção do segmento do grafo correspondente ao Ciclo de Krebs
-Auxílio na construção do algorítmo de pesquisa
-Gerenciamento do Github
+Construção do segmento do grafo correspondente ao Ciclo de Krebs,
+Auxílio na construção do algorítmo de pesquisa,
+Gerenciamento do Github.
 
 ### Victor Emanuel
-Construção do segmento do grafo correspondente à Fermentação
-Adaptação dos códigos do mapa metabólico e das rotas para padronizar 
-Algotitmo de modificação (retirar dobros e tornar direcional
-Design dos slides
-Escrita do README
+Construção do segmento do grafo correspondente à Fermentação,
+Adaptação dos códigos do mapa metabólico e das rotas para padronizar, 
+Algotitmo de modificação (retirar dobros e tornar direcional,
+Design dos slides,
+Escrita do README.
